@@ -5,7 +5,7 @@ Receives real-time commands from the server and reacts by responding with real-t
 By default, the program will report the time and temperature of its environment in the form:
 hh:mm:ss fahrenheit
 
-~~~
+```
 11:37:41 98.6
 11:37:42 98.6
 11:37:43 98.6
@@ -22,4 +22,4 @@ START
 11:38:24 37.0
 OFF
 11:38:27 SHUTDOWN
-~~~
+```
