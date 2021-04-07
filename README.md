@@ -2,8 +2,7 @@
 IoT Project which runs on a Beagleboard and sends regular and encrypted messages (TCP and TLS) from board to a remote server. 
 Receives real-time commands from the server and reacts by responding with real-time sensor data
 
-By default, the program will report the time and temperature of its environment every second in the form:
-hh:mm:ss fahrenheit
+By default, the program will report the time and temperature of its environment every second in the form hh:mm:ss fahrenheit
 
 It accepts commands which let it change the period and temperature scale of reports as well as pausing, starting, and ending the program.
 
